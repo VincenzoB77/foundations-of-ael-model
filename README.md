@@ -168,4 +168,5 @@ This foundational paper establishes the conceptual architecture of the model and
 
 - Bumbalo, V. (2026). *Foundations of the Bumbalo Model of Adult Egocentric Language.*
 - Bumbalo, V. (2026). *The Patient's Silence in Psychotherapy: When the Self Speaks Before Words.* Zenodo.
+
 © 2026 Dr. Vincenzo Bumbalo. All rights reserved. This work is fully protected by international copyright legislation. Any unauthorized use, reproduction, distribution, storage, or transmission is strictly forbidden and will be prosecuted under applicable law. No part of this material may be copied, archived, or disseminated without prior written authorization from the author.
